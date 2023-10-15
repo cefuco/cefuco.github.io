@@ -1,0 +1,259 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100&display=swap');
+
+.mainSectionFlex {
+    display: flex;
+}
+
+/* header{
+    margin: 2% 0 10% 2%;
+    list-style-type: none;
+} */
+
+/* header nav ul{
+    list-style-type: none;
+} */
+
+.contactos {
+    width: 30%;
+    background-color: #FFF;
+    align-items: center;
+    /* height: 100vh; */
+}
+
+.logo {
+    width: 70%;
+    height: 100vh;
+    background-color: #E8EBE4;
+}
+
+.logo-img {
+    display: flex;
+    justify-content: center;
+}
+
+.logo-img img {
+    padding-top: 20%;
+    width: 30%;
+    height: auto;
+}
+
+/* CONTACTOS */
+
+.maria {
+    display: flex;
+    border: solid 1px rgb(214, 209, 209);
+}
+
+.maria i {
+    margin: 8% 0 2% 50%;
+}
+.maria img {
+    margin: 5%;
+    width: 10%;
+    border-radius: 50%;
+}
+
+.nombre {
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 14px;
+    margin: 6% 0 0 0;
+}
+
+.estado {
+    color: #b5b9af;
+    margin: 10% 0 0 -11%;
+}
+
+.juanita {
+    display: flex;
+    border: solid 1px rgb(214, 209, 209);
+}
+
+.juanita i {
+    margin: 8% 0 2% 50%;
+}
+.juanita img {
+    margin: 5%;
+    width: 10%;
+    border-radius: 50%;
+}
+
+.nombre {
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 14px;
+    margin:4% 1% -2% 1;
+}
+
+.estado {
+    color: #b5b9af;
+    margin: 10% 0 0 -11%;
+}
+.alberto {
+    display: flex;
+    border: solid 1px rgb(214, 209, 209);
+}
+
+.alberto i {
+    margin: 8% 0 2% 50%;
+}
+.alberto img {
+    margin: 5%;
+    width: 10%;
+    border-radius: 50%;
+}
+
+.nombre {
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 14px;
+    margin:4% 1% -2% 1;
+}
+
+.estado {
+    color: #b5b9af;
+    margin: 10% 0 0 -11%;
+}
+
+.ignacio {
+    display: flex;
+    border: solid 1px rgb(214, 209, 209);
+}
+
+.ignacio i {
+    margin: 8% 0 2% 50%;
+}
+.ignacio img {
+    margin: 5%;
+    width: 10%;
+    border-radius: 50%;
+}
+
+.nombre {
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 14px;
+    margin:4% 1% -2% 1;
+}
+
+.estado {
+    color: #b5b9af;
+    margin: 10% 0 0 -11%;
+}
+
+.cristian {
+    display: flex;
+    border: solid 1px rgb(214, 209, 209);
+}
+
+.cristian i {
+    margin: 8% 0 2% 50%;
+}
+.cristian img {
+    margin: 5%;
+    width: 10%;
+    border-radius: 50%;
+}
+
+.nombre {
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 14px;
+    margin:4% 1% -2% 1;
+}
+
+.estado {
+    color: #b5b9af;
+    margin: 10% 0 0 -11%;
+}
+
+.maria jose {
+    display: flex;
+    border: solid 1px rgb(214, 209, 209);
+}
+
+.maria jose i {
+    margin: 8% 0 2% 50%;
+}
+.maria jose img {
+    margin: 5%;
+    width: 10%;
+    border-radius: 50%;
+}
+
+.nombre {
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 14px;
+    margin:4% 1% -2% 1;
+}
+
+.estado {
+    color: #b5b9af;
+    margin: 10% 0 0 -11%;
+}
+
+.maria jose {
+    display: flex;
+    border: solid 1px rgb(214, 209, 209);
+}
+
+.maria jose i {
+    margin: 8% 0 2% 50%;
+}
+.maria jose img {
+    margin: 5%;
+    width: 10%;
+    border-radius: 50%;
+}
+
+.nombre {
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 14px;
+    margin:4% 1% -2% 1;
+}
+
+.estado {
+    color: #b5b9af;
+    margin: 10% 0 0 -11%;
+}
+
+.gonzalo {
+    display: flex;
+    border: solid 1px rgb(214, 209, 209);
+}
+
+.gonzalo i {
+    margin: 8% 0 2% 50%;
+}
+.gonzalo img {
+    margin: 5%;
+    width: 10%;
+    border-radius: 50%;
+}
+
+.nombre {
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 14px;
+    margin: 6% 0 0 0;
+}
+
+.estado {
+    color: #b5b9af;
+    margin: 10% 0 0 -11%;
+}
+
+.juan {
+    display: flex;
+    border: solid 1px rgb(214, 209, 209);
+}
+
+
+.botonDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.botonNuevoChat{
+    margin: 10% 0 10% 0
+}
